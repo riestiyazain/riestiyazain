@@ -25,9 +25,9 @@ My research focuses on **efficient and reliable machine learning for computation
 
 ## Selected publications
 
-- **Few-Shot Supervised Contrastive Learning for Image/Video Distortion Classification** — ICPR 2026. Accepted for oral presentation. [Paper](https://doi.org/10.1007/978-3-032-31397-3_10)
+- **Few-Shot Supervised Contrastive Learning for Image/Video Distortion Classification** — ICPR 2026. Accepted for oral presentation and awarded with reproducible research (RPRR) badge. [Paper](https://doi.org/10.1007/978-3-032-31397-3_10) · [Code](https://github.com/riestiyazain/SupCon_DC)
 - **Uncertainty Quantification in Video Distortion Classification Under Dataset Shift** — ICANN 2025. Accepted for oral presentation. [Paper](https://doi.org/10.1007/978-3-032-04546-1_36) · [Code](https://github.com/riestiyazain/MC_VDC)
-- **Automated thread counting in archaeological textiles using pulse-based feature extraction** — The European Physical Journal Plus, 2026. [Paper](https://doi.org/10.1140/epjp/s13360-025-07194-z)
+- **Automated thread counting in archaeological textiles using pulse-based feature extraction** — The European Physical Journal Plus, 2026. [Paper](https://doi.org/10.1140/epjp/s13360-025-07194-z) · [Code](https://github.com/riestiyazain/TexRec_pulse_threadcount)
 
 ## Tools and methods
 
